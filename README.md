@@ -2,4 +2,4 @@
 
 
 ## Initiate A
-initiate <BTCaddress> <amount>
+**`initiate <BTCaddress> <amount>`**
